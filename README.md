@@ -1,5 +1,5 @@
 # tmlocal
 フォルダー 02に　pythonのソースコードをおいています。
-anaconda で環境を制作しました。
+anaconda で環境を構築しました。
 
 
