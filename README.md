@@ -9,5 +9,8 @@ Teachable Machine　のような動作をするシステムをローカルPCの�
 anaconda で環境を構築しました。  
 anacondaにインストールされているライブラリは、conda_list.txtに掲載しています。
 
-#YouTubeチャネル
+## YouTubeチャネル
 [簡単マイコン教室](https://www.youtube.com/@easyMicrobitClassroom)
+
+## Author
+tmdoi
