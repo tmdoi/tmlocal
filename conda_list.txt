@@ -31,6 +31,7 @@ cycler                    0.11.0             pyhd3eb1b0_0
 decorator                 5.1.1              pyhd8ed1ab_0    conda-forge
 expat                     2.6.2                hebf3989_0    conda-forge
 ffmpeg                    5.1.2           gpl_hf318d42_106    conda-forge
+fftw                      3.3.9                h80987f9_2  
 font-ttf-dejavu-sans-mono 2.37                 hab24e00_0    conda-forge
 font-ttf-inconsolata      3.000                h77eed37_0    conda-forge
 font-ttf-source-code-pro  2.038                h77eed37_0    conda-forge
@@ -152,7 +153,7 @@ requests-oauthlib         2.0.0              pyhd8ed1ab_0    conda-forge
 resampy                   0.4.3              pyhd8ed1ab_0    conda-forge
 rsa                       4.9                pyhd8ed1ab_0    conda-forge
 scikit-learn              1.1.2            py38h6e93f71_0    conda-forge
-scipy                     1.9.1            py38h3aeb131_0    conda-forge
+scipy                     1.10.0           py38h9d039d2_0  
 setuptools                69.5.1           py38hca03da5_0  
 six                       1.15.0             pyh9f0ad1d_0    conda-forge
 snappy                    1.1.10               h17c5cce_0    conda-forge
